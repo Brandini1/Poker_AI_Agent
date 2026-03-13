@@ -102,6 +102,7 @@ Current progress:
 - compare the ML model with the rule-based baseline
 - improve opponent modeling
 
-## Author
+## Authors
 
-Brandon Nguyen
+Brandon Nguyen  
+Jason Pham
